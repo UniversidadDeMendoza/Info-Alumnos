@@ -31,6 +31,7 @@ Si tu nombre no figura en ningún grupo no puedo evaluarte.  **Chequear**:heavy_
 | 9  | quimeyortiz99@gmail.com     | Quimey Ortiz          |
 | 10 | agufranceschini23@gmail.com | Agustin Franceschini  |
 | 11 | juanthomas.m@hotmail.com    | Juan Messina          |
+| 12 | valeens12@gmail.com         | Valentina Sosa        |
 
 ### Grupo Programación :nerd_face:
 
