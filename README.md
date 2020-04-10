@@ -36,14 +36,14 @@ Si tu nombre no figura en ningún grupo no puedo evaluarte.  **Chequear**:heavy_
 
 | # | Mail                             | Nombre						          | Clase 2|
 |:-:| -------------------------------- | -------------------------- |:-:|
-| 1 | emi_bomba2504@hotmail.com        | Emilio Lopez Videla	    	|:question:|
+| 1 | emi_bomba2504@hotmail.com        | Emilio Lopez Videla	    	|:heavy_exclamation_mark:|
 | 2 | enzo.rolon@outlook.com           | Enzo Rolón					        |:heavy_exclamation_mark:|
-| 3 | atobepb@gmail.com                | Facundo Perez Botti		    |:question:|
-| 4 | gregoanselmi@gmail.com      	   | Juan Gregorio Anselmi		  |:heavy_exclamation_mark:|
+| 3 | atobepb@gmail.com                | Facundo Perez Botti		    |:heavy_exclamation_mark:|
+| 4 | gregoanselmi@gmail.com      	   | Juan Gregorio Anselmi		  |:skull_and_crossbones:|
 | 5 | miikegonzalez@hotmail.com        | Michael Pereira			      |:heavy_exclamation_mark:|
 | 6 | nicolasfelix19@gmail.com         | Yair Nicolas Felix		    	|:heavy_exclamation_mark:|
 | 7 | franciscofioreh@gmail.com        | Francisco José Filipo Fiore|:skull_and_crossbones:|
-| 8 | adrianalfredogonzalez@outlook.com| Adrian Gonzalez		      	|:question:|
+| 8 | adrianalfredogonzalez@outlook.com| Adrian Gonzalez		      	|:heavy_exclamation_mark:|
 
 #### Referencia
 
