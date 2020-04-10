@@ -14,8 +14,6 @@ _La clase está dividida en dos grupos, **General** y **Programación**._
 
 Si tu nombre no figura en ningún grupo no puedo evaluarte.  **Chequear**:heavy_exclamation_mark:
 
- 
-
 
 ### Grupo General :sparkles:
 
@@ -47,7 +45,11 @@ Si tu nombre no figura en ningún grupo no puedo evaluarte.  **Chequear**:heavy_
 | 7 | franciscofioreh@gmail.com        | Francisco José Filipo Fiore|:skull_and_crossbones:|
 | 8 | adrianalfredogonzalez@outlook.com| Adrian Gonzalez		      	|:question:|
 
+#### Referencia
 
+- :+1: Todo bien, no tenés que hacer nada mas. :+1:
+- :heavy_exclamation_mark: Hiciste algo, pero no está completo el trabajo y lo tenés que terminar. :heavy_exclamation_mark:
+- :skull_and_crossbones: No hiciste nada o está todo mal, tenés que hacer todo. :skull_and_crossbones:
 
 ### Información 🔧
 
