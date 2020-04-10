@@ -31,6 +31,7 @@ Si tu nombre no figura en ningún grupo no puedo evaluarte.  **Chequear**:heavy_
 | 10   | jorge-oki1@hotmail.com      | Jorge Nadir Oki       |:skull_and_crossbones:|
 | 11   | juanthomas.m@hotmail.com    | Juan Messina          |:skull_and_crossbones:|
 | 12   | valeens12@gmail.com         | Valentina Sosa        |:+1:|
+| 13   | miikegonzalez@hotmail.com   | Michael Pereira			 |:+1:|
 
 ### Grupo Programación :nerd_face:
 
@@ -40,10 +41,9 @@ Si tu nombre no figura en ningún grupo no puedo evaluarte.  **Chequear**:heavy_
 | 2 | enzo.rolon@outlook.com           | Enzo Rolón					        |:heavy_exclamation_mark:|
 | 3 | atobepb@gmail.com                | Facundo Perez Botti		    |:heavy_exclamation_mark:|
 | 4 | gregoanselmi@gmail.com      	   | Juan Gregorio Anselmi		  |:skull_and_crossbones:|
-| 5 | miikegonzalez@hotmail.com        | Michael Pereira			      |:heavy_exclamation_mark:|
-| 6 | nicolasfelix19@gmail.com         | Yair Nicolas Felix		    	|:heavy_exclamation_mark:|
-| 7 | franciscofioreh@gmail.com        | Francisco José Filipo Fiore|:skull_and_crossbones:|
-| 8 | adrianalfredogonzalez@outlook.com| Adrian Gonzalez		      	|:heavy_exclamation_mark:|
+| 5 | nicolasfelix19@gmail.com         | Yair Nicolas Felix		    	|:heavy_exclamation_mark:|
+| 6 | franciscofioreh@gmail.com        | Francisco José Filipo Fiore|:skull_and_crossbones:|
+| 7 | adrianalfredogonzalez@outlook.com| Adrian Gonzalez		      	|:heavy_exclamation_mark:|
 
 #### Referencia
 
