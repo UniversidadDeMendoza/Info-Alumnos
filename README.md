@@ -41,7 +41,7 @@ Si tu nombre no figura en ningún grupo no puedo evaluarte.  **Chequear**:heavy_
 | 1 | enzo.rolon@outlook.com           | Enzo Rolón			            |:+1:|
 | 2 | adrianalfredogonzalez@outlook.com| Adrian Gonzalez		      	|:+1:|
 | 3 | atobepb@gmail.com                | Facundo Perez Botti		    |:heavy_exclamation_mark:|
-| 4 | gregoanselmi@gmail.com      	   | Juan Gregorio Anselmi		  |:skull_and_crossbones:|
+| 4 | gregoanselmi@gmail.com      	   | Juan Gregorio Anselmi		  |:+1:|
 | 5 | nicolasfelix19@gmail.com         | Yair Nicolas Felix		    	|:heavy_exclamation_mark:|
 | 6 | franciscofioreh@gmail.com        | Francisco José Filipo Fiore|:skull_and_crossbones:|
 
