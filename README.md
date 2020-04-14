@@ -33,7 +33,7 @@ Si tu nombre no figura en ningún grupo no puedo evaluarte.  **Chequear**:heavy_
 | 12   | valeens12@gmail.com         | Valentina Sosa        |:+1:|
 | 13   | miikegonzalez@hotmail.com   | Michael Pereira			 |:+1:|
 | 14   | emi_bomba2504@hotmail.com   | Emilio Lopez Videla	 |:+1:|
-| 3    | atobepb@gmail.com           | Facundo Perez Botti   |:+1:|
+| 15   | atobepb@gmail.com           | Facundo Perez Botti   |:+1:|
 
 ### Grupo Programación :nerd_face:
 
@@ -56,7 +56,5 @@ Si tu nombre no figura en ningún grupo no puedo evaluarte.  **Chequear**:heavy_
 
 - Link al [Cuestionario de inicio de clases](https://forms.gle/NYiuDneyZy38wEfU9).
 - Link a la [página de la UM](https://github.com/UniversidadDeMendoza/) en GitHub.
-- Link al [repositorio de la Unidad 1](https://github.com/UniversidadDeMendoza/Unidad1).
-
-
-
+- Link a la [página del equipo](https://github.com/orgs/UniversidadDeMendoza/teams/tercer-ano-2020).
+- Link al [repositorio de la clase](https://github.com/UniversidadDeMendoza/ProgramacionUM2020).
