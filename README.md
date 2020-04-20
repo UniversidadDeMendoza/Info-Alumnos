@@ -17,33 +17,35 @@ Si tu nombre no figura en ningún grupo no puedo evaluarte.  **Chequear**:heavy_
 
 ### Grupo General :sparkles:
 
-| #    | Mail                        | Nombre                | Clase 2 |
-| :--: | --------------------------- | --------------------- |:-:|
-| 1    | agufranceschini23@gmail.com | Agustin Franceschini  |:+1:|
-| 2    | andresgs78245@gmail.com     | Andres Gomez Serrano  |:+1:|
-| 3    | ivanabrego21@gmail.com      | Ivan Abrego           |:heavy_exclamation_mark:|
-| 4    | josedumit66@gmail.com       | Jose Ignacio Dumit    |:+1:|
-| 5    | matiascoronel0699@gmail.com | Matías Coronel        |:+1:|
-| 6    | quimeyortiz99@gmail.com     | Quimey Ortiz          |:+1:|
-| 7    | sebastianerrico99@gmail.com | Axel Sebastián Errico |:+1:|
-| 8    | lucasanton2010@hotmail.com  | Lucas Antón           |:+1:|
-| 9    | andresluisrule@gmail.com    | Andrés Luis Rule      |:+1:|
-| 10   | jorge-oki1@hotmail.com      | Jorge Nadir Oki       |:+1:|
-| 11   | juanthomas.m@hotmail.com    | Juan Messina          |:+1:|
-| 12   | valeens12@gmail.com         | Valentina Sosa        |:+1:|
-| 13   | miikegonzalez@hotmail.com   | Michael Pereira			 |:+1:|
-| 14   | emi_bomba2504@hotmail.com   | Emilio Lopez Videla	 |:+1:|
-| 15   | atobepb@gmail.com           | Facundo Perez Botti   |:+1:|
+| #    | Mail                        | Nombre                | Clase 2                | Clase 3              |
+| :--: | --------------------------- | --------------------- |:----------------------:|:--------------------:|
+| 1    | agufranceschini23@gmail.com | Agustin Franceschini  |:+1:                    |:+1:                  |
+| 2    | andresgs78245@gmail.com     | Andres Gomez Serrano  |:+1:                    |:+1:                  |
+| 3    | emi_bomba2504@hotmail.com   | Emilio Lopez Videla	 |:+1:                    |:+1:                  |
+| 4    | atobepb@gmail.com           | Facundo Perez Botti   |:+1:                    |:+1:                  |
+| 5    | ivanabrego21@gmail.com      | Ivan Abrego           |:heavy_exclamation_mark:|:skull_and_crossbones:|
+| 6    | jorge-oki1@hotmail.com      | Jorge Nadir Oki       |:+1:                    |:skull_and_crossbones:|
+| 7    | josedumit66@gmail.com       | Jose Ignacio Dumit    |:+1:                    |:+1:                  |
+| 8    | juanthomas.m@hotmail.com    | Juan Messina          |:+1:                    |:+1:                  |
+| 9    | lucasanton2010@hotmail.com  | Lucas Antón           |:+1:                    |:+1:                  |
+| 10   | matiascoronel0699@gmail.com | Matías Coronel        |:+1:                    |:+1:                  |
+| 11   | miikegonzalez@hotmail.com   | Michael Pereira			 |:+1:                    |:+1:                  |
+| 12   | quimeyortiz99@gmail.com     | Quimey Ortiz          |:+1:                    |:+1:                  |
+| 13   | sebastianerrico99@gmail.com | Axel Sebastián Errico |:+1:                    |:+1:                  |
+| 14   | valeens12@gmail.com         | Valentina Sosa        |:+1:                    |:+1:                  |
+| 15   | andresluisrule@gmail.com    | Andrés Luis Rule      |:+1:                    |:+1:                  |
+
+
 
 ### Grupo Programación :nerd_face:
 
-| # | Mail                             | Nombre						          | Clase 2|
-|:-:| -------------------------------- | -------------------------- |:-:|
-| 1 | enzo.rolon@outlook.com           | Enzo Rolón			            |:+1:|
-| 2 | adrianalfredogonzalez@outlook.com| Adrian Gonzalez		      	|:+1:|
-| 3 | gregoanselmi@gmail.com      	   | Juan Gregorio Anselmi		  |:+1:|
-| 4 | nicolasfelix19@gmail.com         | Yair Nicolas Felix		    	|:+1:|
-| 5 | franciscofioreh@gmail.com        | Francisco José Filipo Fiore|:+1:|
+| # | Mail                             | Nombre						          | Clase 2| Diagrama|
+|:-:| -------------------------------- | -------------------------- |:------:|:-------:|
+| 1 | enzo.rolon@outlook.com           | Enzo Rolón			            |:+1:    |         |
+| 2 | adrianalfredogonzalez@outlook.com| Adrian Gonzalez		      	|:+1:    |         |
+| 3 | gregoanselmi@gmail.com      	   | Juan Gregorio Anselmi		  |:+1:    |         |
+| 4 | nicolasfelix19@gmail.com         | Yair Nicolas Felix		    	|:+1:    |         |
+| 5 | franciscofioreh@gmail.com        | Francisco José Filipo Fiore|:+1:    |         |
 
 
 #### Referencia
